@@ -21,7 +21,7 @@ npm install
 
 3. Run the app:
 ```powershell
-npm run dev -- --port 3000
+npm run dev 
 ```
 
 4. Open the login page:
